@@ -1,0 +1,8 @@
+Jade is a node template engine
+It is default to express framework
+Jade gives you a powerful new way to write markup, with a number of advantages over plain HTML.
+It allows writing modular reusable markup
+There are no closing tags 
+Jad uses indentation to determine how tags are nested
+
+Note: https://www.sitepoint.com/jade-tutorial-for-beginners/
